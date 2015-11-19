@@ -1,0 +1,517 @@
+{
+   "checksum": "430a32d261d315517f8fed6d158c45a4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13065867733000000",
+               "id": "96",
+               "name": "Support",
+               "type": "url",
+               "url": "http://www.ixiacom.com/user?destination=node/244"
+            }, {
+               "date_added": "13065867775000000",
+               "id": "97",
+               "name": "Ixia/BreakingPoint Customer Login",
+               "type": "url",
+               "url": "https://strikecenter.ixiacom.com/bps/login?continue=%2F"
+            } ],
+            "date_added": "13071216221948587",
+            "date_modified": "0",
+            "id": "95",
+            "name": "Ixia",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "12982763700000000",
+               "id": "99",
+               "name": "Git Cheatsheet",
+               "type": "url",
+               "url": "http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;"
+            } ],
+            "date_added": "13071216221948901",
+            "date_modified": "0",
+            "id": "98",
+            "name": "Git",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "12944157717000000",
+               "id": "114",
+               "name": "Linux/bash Documentation",
+               "type": "url",
+               "url": "http://linux.die.net/"
+            }, {
+               "date_added": "12944054684000000",
+               "id": "115",
+               "name": "LinWiki.de - Das Linux Wiki",
+               "type": "url",
+               "url": "http://de.linwiki.org/wiki/Alias"
+            }, {
+               "date_added": "12944054734000000",
+               "id": "116",
+               "name": "PW für Funktionen deaktivieren",
+               "type": "url",
+               "url": "http://linux.byexamples.com/archives/315/how-to-shutdown-and-reboot-without-sudo-password/"
+            }, {
+               "date_added": "12944054782000000",
+               "id": "117",
+               "name": "The Vim commands cheat sheet",
+               "type": "url",
+               "url": "http://www.tuxfiles.org/linuxhelp/vimcheat.html"
+            }, {
+               "date_added": "12944054910000000",
+               "id": "118",
+               "name": "Vim Viewports",
+               "type": "url",
+               "url": "http://www.linux.com/archive/feed/54157"
+            } ],
+            "date_added": "13071216221950166",
+            "date_modified": "0",
+            "id": "113",
+            "name": "Linux",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13077696813334494",
+               "id": "164",
+               "meta_info": {
+                  "Nickname": "new jenkins",
+                  "Thumbnail": "chrome://thumb/https://jenkins-dev.lan.adytonsystems.com/"
+               },
+               "name": "New Jenkins",
+               "type": "url",
+               "url": "https://jenkins-dev.lan.adytonsystems.com/"
+            }, {
+               "date_added": "13071241655897010",
+               "id": "160",
+               "meta_info": {
+                  "Description": "social",
+                  "Nickname": "social",
+                  "Speeddial": "false",
+                  "Thumbnail": "chrome://thumb/http://bookmark_thumbnail/160?1427108135435"
+               },
+               "name": "SocialNet",
+               "type": "url",
+               "url": "https://social.lan.adytonsystems.com/main/public"
+            }, {
+               "date_added": "13062705562000000",
+               "id": "101",
+               "name": "Run/Debug Configuration: RSpec",
+               "type": "url",
+               "url": "https://www.jetbrains.com/ruby/webhelp/run-debug-configuration-rspec.html"
+            }, {
+               "date_added": "13062705109000000",
+               "id": "102",
+               "name": "SCRUMCAM",
+               "type": "url",
+               "url": "http://scrumcam-1/current.jpg"
+            }, {
+               "date_added": "13058260513000000",
+               "id": "104",
+               "meta_info": {
+                  "Description": "",
+                  "Nickname": "deployment",
+                  "Speeddial": "false",
+                  "Thumbnail": ""
+               },
+               "name": "Deployment Server",
+               "type": "url",
+               "url": "ftp://deploy/deployment/"
+            }, {
+               "date_added": "13057666233000000",
+               "id": "105",
+               "name": "Gem in a Box",
+               "type": "url",
+               "url": "http://geminabox.lan.adytonsystems.com/"
+            }, {
+               "date_added": "13056113778000000",
+               "id": "106",
+               "meta_info": {
+                  "Description": "",
+                  "Nickname": "gitlab",
+                  "Speeddial": "false",
+                  "Thumbnail": "chrome://thumb/http://bookmark_thumbnail/106?1426745126073"
+               },
+               "name": "GitLab",
+               "type": "url",
+               "url": "https://gitlab.lan.adytonsystems.com/"
+            }, {
+               "date_added": "13056106593000000",
+               "id": "107",
+               "name": "Jenkins Dashboard",
+               "type": "url",
+               "url": "http://jenkins.lan.adytonsystems.com:8080/"
+            }, {
+               "date_added": "13071218066596806",
+               "id": "158",
+               "meta_info": {
+                  "Nickname": "jtest",
+                  "Thumbnail": "chrome://thumb/http://jenkins.lan.adytonsystems.com:8080/view/Test/"
+               },
+               "name": "Test [Jenkins]",
+               "type": "url",
+               "url": "http://jenkins.lan.adytonsystems.com:8080/view/Test/"
+            }, {
+               "date_added": "13056106565000000",
+               "id": "109",
+               "name": "Proxmox TSVT3",
+               "type": "url",
+               "url": "https://tsvt3-mgmt-1.lan.adytonsystems.com:8006/#v1:0:18:4::::::"
+            }, {
+               "date_added": "13056105442000000",
+               "id": "110",
+               "meta_info": {
+                  "Description": "",
+                  "Nickname": "redmine",
+                  "Speeddial": "false",
+                  "Thumbnail": ""
+               },
+               "name": "Redmine",
+               "type": "url",
+               "url": "https://redmine.lan.adytonsystems.com/"
+            }, {
+               "date_added": "13056106500000000",
+               "id": "111",
+               "name": "Timeometer",
+               "type": "url",
+               "url": "https://timeometer.lan.adytonsystems.com/login/index.php"
+            }, {
+               "date_added": "13070638154000000",
+               "id": "112",
+               "name": "Staging Licence",
+               "type": "url",
+               "url": "https://licensing-staging.lan.adytonsystems.com/users/sign_in"
+            }, {
+               "date_added": "13069948373000000",
+               "id": "151",
+               "name": "Stuff that may rescue you in hopeless situations - Testing - Gateprotect",
+               "type": "url",
+               "url": "https://redmine.lan.adytonsystems.com/projects/dev-testing/wiki/Stuff_that_may_rescue_you_in_hopeless_situations"
+            }, {
+               "date_added": "13071217542739458",
+               "id": "157",
+               "meta_info": {
+                  "Nickname": "rack3",
+                  "Thumbnail": "chrome://thumb/https://redmine.lan.adytonsystems.com/projects/admin/wiki/Tsvt3"
+               },
+               "name": "TSVT3 - IT - Gateprotect",
+               "type": "url",
+               "url": "https://redmine.lan.adytonsystems.com/projects/admin/wiki/Tsvt3"
+            }, {
+               "date_added": "13080813723294667",
+               "id": "169",
+               "meta_info": {
+                  "Nickname": "tumbler",
+                  "Thumbnail": "chrome://thumb/https://tumbler.lan.adytonsystems.com:8006/#v1:0:18:4::::::"
+               },
+               "name": "Tumbler",
+               "type": "url",
+               "url": "https://tumbler.lan.adytonsystems.com:8006/#v1:0:18:4::::::"
+            }, {
+               "date_added": "13091877209833585",
+               "id": "182",
+               "meta_info": {
+                  "Description": "artifcats",
+                  "Nickname": "artifacts",
+                  "Thumbnail": "chrome://thumb/http://artifacts.lan.adytonsystems.com/"
+               },
+               "name": "Index of /",
+               "type": "url",
+               "url": "http://artifacts.lan.adytonsystems.com/"
+            } ],
+            "date_added": "13071216221949064",
+            "date_modified": "13092131472785795",
+            "id": "100",
+            "name": "Internal",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13057667089000000",
+               "id": "120",
+               "name": "VM 5060 (CP)",
+               "type": "url",
+               "url": "http://10.2.50.60/#/login"
+            }, {
+               "date_added": "13056106738000000",
+               "id": "121",
+               "name": "VM 5042 (MAT)",
+               "type": "url",
+               "url": "http://10.2.50.42/"
+            }, {
+               "date_added": "13056106722000000",
+               "id": "122",
+               "name": "VM 5023",
+               "type": "url",
+               "url": "http://10.2.50.23/"
+            }, {
+               "date_added": "13051638535000000",
+               "id": "123",
+               "name": "VM 5000",
+               "type": "url",
+               "url": "http://10.2.50.0/"
+            } ],
+            "date_added": "13071216221950484",
+            "date_modified": "0",
+            "id": "119",
+            "name": "NPs",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13070971782000000",
+               "id": "152",
+               "name": "ruby on rails - Having trouble with WebMock, not stubbing correctly - Stack Overflow",
+               "type": "url",
+               "url": "http://stackoverflow.com/questions/27662386/having-trouble-with-webmock-not-stubbing-correctly"
+            }, {
+               "date_added": "13058347713000000",
+               "id": "125",
+               "name": "Markdown Live Preview",
+               "type": "url",
+               "url": "http://markdownlivepreview.com/"
+            }, {
+               "date_added": "13056118302000000",
+               "id": "126",
+               "name": "Ruby on Rails Guides",
+               "type": "url",
+               "url": "http://guides.rubyonrails.org/index.html"
+            }, {
+               "date_added": "12948466184000000",
+               "id": "127",
+               "name": "Before_filter Overview",
+               "type": "url",
+               "url": "http://rails.rubyonrails.org/classes/ActionController/Filters/ClassMethods.html"
+            }, {
+               "date_added": "12954580620000000",
+               "id": "128",
+               "name": "Blog of Ryan Bigg - Ubuntu, Ruby, RVM, Rails, and You",
+               "type": "url",
+               "url": "http://ryanbigg.com/2010/12/ubuntu-ruby-rvm-rails-and-you/"
+            }, {
+               "date_added": "12948466255000000",
+               "id": "129",
+               "name": "Flash",
+               "type": "url",
+               "url": "http://edgerails.info/articles/what-s-new-in-edge-rails/2009/12/20/what-s-new-in-edge-rails-set-flash-in-redirect_to/index.html"
+            }, {
+               "date_added": "12954580538000000",
+               "id": "130",
+               "name": "Module: Spec::Matchers",
+               "type": "url",
+               "url": "http://rspec.rubyforge.org/rspec/1.1.9/classes/Spec/Matchers.html"
+            }, {
+               "date_added": "12953036177000000",
+               "id": "131",
+               "name": "Mongoid: Installation [Configuration]",
+               "type": "url",
+               "url": "http://mongoid.org/docs/installation/configuration.html"
+            }, {
+               "date_added": "12954580450000000",
+               "id": "132",
+               "name": "Mongoid: Validation",
+               "type": "url",
+               "url": "http://mongoid.org/docs/validation.html"
+            }, {
+               "date_added": "13015676008000000",
+               "id": "133",
+               "name": "Net::HTTP Cheat Sheet",
+               "type": "url",
+               "url": "http://www.rubyinside.com/nethttp-cheat-sheet-2940.html"
+            }, {
+               "date_added": "12948802148000000",
+               "id": "134",
+               "name": "Regex",
+               "type": "url",
+               "url": "http://www.regular-expressions.info/anchors.html"
+            }, {
+               "date_added": "12954580601000000",
+               "id": "135",
+               "name": "Ruby on Rails : RDoc für Ihre Rails-Anwendung generieren",
+               "type": "url",
+               "url": "http://www.rubyonrails.de/2008/06/rdoc-fur-ihre-rails-anwendung-generieren/"
+            }, {
+               "date_added": "12979049876000000",
+               "id": "136",
+               "name": "Ruby-Doc",
+               "type": "url",
+               "url": "http://ruby-doc.org/core-1.9.3/Enumerable.html"
+            }, {
+               "date_added": "12948466242000000",
+               "id": "137",
+               "name": "Security",
+               "type": "url",
+               "url": "http://guides.rubyonrails.org/security.html"
+            }, {
+               "date_added": "12948466226000000",
+               "id": "138",
+               "name": "Sessions",
+               "type": "url",
+               "url": "http://rails.nuvvo.com/lesson/6372-action-controller-session"
+            }, {
+               "date_added": "13022067994000000",
+               "id": "139",
+               "name": "The Ruby Toolbox - Know Your Options!",
+               "type": "url",
+               "url": "https://www.ruby-toolbox.com/"
+            }, {
+               "date_added": "13052325561000000",
+               "id": "140",
+               "name": "Thor - Home",
+               "type": "url",
+               "url": "http://whatisthor.com/"
+            }, {
+               "date_added": "12953380433000000",
+               "id": "141",
+               "name": "Wiki für die Programmiersprache Ruby",
+               "type": "url",
+               "url": "http://wiki.ruby-portal.de/Pitfalls#.22Call_by_reference.22.2C_.22Call_by_value.22_und_mehrere_R.C3.BCckgabewerte_bei_Methoden"
+            }, {
+               "children": [ {
+                  "date_added": "13061561281000000",
+                  "id": "143",
+                  "name": "Deploy Network Protector Config [Jenkins]",
+                  "type": "url",
+                  "url": "http://jenkins.lan.adytonsystems.com:8080/job/Deploy%20Network%20Protector/configure"
+               }, {
+                  "date_added": "13060255455000000",
+                  "id": "144",
+                  "name": "RSpec Mocks",
+                  "type": "url",
+                  "url": "https://www.relishapp.com/rspec/rspec-mocks/v/3-1/docs"
+               }, {
+                  "date_added": "13060255395000000",
+                  "id": "145",
+                  "name": "RSpec Expectations",
+                  "type": "url",
+                  "url": "https://www.relishapp.com/rspec/rspec-expectations/v/3-1/docs/built-in-matchers"
+               }, {
+                  "date_added": "13060255353000000",
+                  "id": "146",
+                  "name": "RSpec",
+                  "type": "url",
+                  "url": "https://www.relishapp.com/rspec/"
+               } ],
+               "date_added": "13071216221951723",
+               "date_modified": "0",
+               "id": "142",
+               "name": "RSpec",
+               "type": "folder"
+            }, {
+               "date_added": "13068547058000000",
+               "id": "147",
+               "name": "Rubular: a Ruby regular expression editor and tester",
+               "type": "url",
+               "url": "http://www.rubular.com/"
+            }, {
+               "date_added": "13083919726923068",
+               "id": "172",
+               "meta_info": {
+                  "Description": "apidock",
+                  "Nickname": "apidock",
+                  "Speeddial": "false",
+                  "Thumbnail": "chrome://thumb/http://apidock.com/"
+               },
+               "name": "APIdock",
+               "type": "url",
+               "url": "http://apidock.com/"
+            }, {
+               "date_added": "13084434967057301",
+               "id": "176",
+               "meta_info": {
+                  "Nickname": "rails guides",
+                  "Thumbnail": "chrome://thumb/http://guides.rubyonrails.org/"
+               },
+               "name": "Ruby on Rails Guides",
+               "type": "url",
+               "url": "http://guides.rubyonrails.org/"
+            } ],
+            "date_added": "13071216221950713",
+            "date_modified": "13084434967057301",
+            "id": "124",
+            "name": "Ruby",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13056531129000000",
+               "id": "149",
+               "meta_info": {
+                  "Description": "",
+                  "Nickname": "music",
+                  "Speeddial": "false",
+                  "Thumbnail": ""
+               },
+               "name": "music",
+               "type": "url",
+               "url": "https://eternity.zapto.org:5002/"
+            }, {
+               "date_added": "13083920182287185",
+               "id": "173",
+               "meta_info": {
+                  "Nickname": "chat",
+                  "Thumbnail": "chrome://thumb/https://eternity.zapto.org/chat/?page=login"
+               },
+               "name": "Katzengespräche",
+               "type": "url",
+               "url": "https://eternity.zapto.org/chat/?page=login"
+            } ],
+            "date_added": "13071216221952026",
+            "date_modified": "13083920182287185",
+            "id": "148",
+            "name": "Regen",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13071217053804358",
+            "date_modified": "13071217090165417",
+            "id": "154",
+            "meta_info": {
+               "Speeddial": "true"
+            },
+            "name": "New Folder",
+            "type": "folder"
+         }, {
+            "date_added": "13078562402653511",
+            "id": "166",
+            "meta_info": {
+               "Nickname": "current sprint",
+               "Thumbnail": "chrome://thumb/https://redmine.lan.adytonsystems.com/projects/alf/issues?query_id=1330"
+            },
+            "name": "XFT1 Current Sprint, Stories - Development - Gateprotect",
+            "type": "url",
+            "url": "https://redmine.lan.adytonsystems.com/projects/alf/issues?query_id=1330"
+         }, {
+            "date_added": "13090485774138444",
+            "id": "179",
+            "meta_info": {
+               "Nickname": "testbench mails",
+               "Thumbnail": "chrome://thumb/https://redmine.lan.adytonsystems.com/projects/qa_internal/wiki/Testbench_support_mails/4"
+            },
+            "name": "Testbench support mails - QA Internal - Gateprotect",
+            "type": "url",
+            "url": "https://redmine.lan.adytonsystems.com/projects/qa_internal/wiki/Testbench_support_mails/4"
+         } ],
+         "date_added": "13071215946509810",
+         "date_modified": "13091877209833585",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13071215946509821",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13071215946509822",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

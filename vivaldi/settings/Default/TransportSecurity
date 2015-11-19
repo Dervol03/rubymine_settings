@@ -1,0 +1,119 @@
+{
+   "+loO+DGmT6DTr59JZFAnGSlBAwPkO5M/R9ec1Sw/9KA=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1463469312.752102,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1447917312.752116
+   },
+   "527PkslNJ5hZXvFN8wnZ9XoURjT5ddTDW+g1qaWZyQk=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1463469312.168372,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": true,
+      "sts_observed": 1447917312.168378
+   },
+   "9jFJneXMVHTXLZTJwwlFuScHMcN/99brFSgqRKTizGw=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1479453315.718636,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1447917315.718638
+   },
+   "LAZkYS46RVRcFiZAzmUJrz6TJHBd4nwE6VxPWfPLYHs=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1458803714.473192,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1447917314.473196
+   },
+   "Llx5J+oMpnL157KAE0PWxQc1+gNhA0JKKEiDk7uu4og=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1479452295.165386,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1447916295.165392
+   },
+   "NYADXKwtySGRA6XNs2RGYE89mXc9sRev741L2Vxjh7U=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1479453448.548492,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1447917448.548496
+   },
+   "OJAwwDug+gPr+xWjx2kFIFhHDQULu5ljftVMMZ74I4o=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1479453558.552487,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": true,
+      "sts_observed": 1447917558.552528
+   },
+   "Z/gomZgZSf6IvoX+GjfYwgtBXZCQG5x+1rPbDTDYSA0=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1447938914.83948,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1447917314.839484
+   },
+   "fC4OQ65NQYFjUrr3rRogBv1Zj80VNyhqdAdqVikpug8=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1479452544.485836,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1447916544.48584
+   },
+   "hLG8LH00GZ7JYYa9wVYtUs7beQzMe8lPgXn5UV8T2kw=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1479452573.203792,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": true,
+      "sts_observed": 1447916573.203796
+   },
+   "jdXTuDVO0QgQw2jK9s9nc1a0TDmPUG9+eLk+lj15I+A=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1479453591.845741,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": true,
+      "sts_observed": 1447917591.845747
+   },
+   "naWqqUdAJIRK8OMVCtjmpzRPIM+NAoDML7W1+r+x130=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1479453314.87082,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1447917314.870824
+   },
+   "yXMa7TRSOdD9i2XjDAIdnBHNvxun4bXwlTv6odWxmIY=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1447921183.905514,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1447917583.905517
+   }
+}
