@@ -1,0 +1,55 @@
+[user]
+                name = Yves Komenda
+                email = yves.komenda@gateprotect.com
+[color]
+                diff = auto
+                branch = auto
+                status = auto
+                grep = auto
+[color "status"]
+                added = yellow
+                changed = green
+                untracked = cyan
+[color "diff"]
+                whitespace = red reverse
+                frag = magenta bold
+                old = red bold
+                new = green bold
+[receive]
+                denyDeleteCurrent = warn
+[alias]
+  a     = add
+  aa    = add --all
+  b     = branch
+  ba    = branch -a
+  co    = checkout
+  cb    = checkout -b
+  cm    = commit
+  ca    = commit -a
+  cma   = commit --amend
+  d     = diff
+  dh    = diff HEAD
+  f     = fetch
+  ft    = fetch --tags
+  g     = grep
+  hist  = log --pretty=format:\"%h-%ar| %Cgreen%d%Creset %s [%Cblue%an%Creset]\" --graph --date=short --decorate=short
+  ls    = ls-files
+  l     = log
+  lol   = log --graph --decorate --pretty=oneline --abbrev-commit
+  lola  = log --graph --decorate --pretty=oneline --abbrev-commit --all
+  m     = merge --commit --no-ff
+  mx    = merge --commit --no-ff -X ours
+  pl    = pull
+  ps    = push
+  pt    = push --tags
+  rb    = rebase --ff-only
+  rs    = reset --soft
+  rh    = reset --hard
+  rhh   = reset --hard HEAD~1
+  s     = show -p
+  st    = status
+  t     = tag
+[push]
+	default = simple
+[core]
+	autocrlf = input

@@ -1,0 +1,78 @@
+
+#alises for shutdown
+alias sd="sudo shutdown -h now"
+alias re="sudo shutdown -r now"
+
+#aliases for workflow
+alias xt="gnome-terminal &"
+alias wvim="terminator -x vim $@"
+alias ta="cd ~/development/ta"
+alias cuc="cd ~/development/system_tests/cucumber"
+alias jen="cd ~/development/jenkins"
+alias wkey="echo cffe495091c8e1fb3fdb56be7ae61ead0cb18885"
+alias addx="chmod +x"
+alias cr="cd ~/development/cr_access_driver"
+alias web="cd ~/development/web/webgui2"
+alias gui="cd ~/development/bagel"
+alias dev="cd ~/development"
+alias gems="cd ~/Downloads/gems; ls"
+alias be="bundle exec"
+
+# ssh aliases
+alias sshconf="vim ~/.ssh/config"
+alias addkey="ssh-copy-id"
+
+
+# Methods for better Workflows
+
+function brc {
+  vim ~/setup/bash_additions
+  source ~/.bashrc
+}
+
+function rubycheck {
+  for f in $(ls $1*.rb); do ruby -c $f; done
+}
+
+function commit {
+  lastpwd=$(echo $PWD)
+  git log | head -n 6
+  cd $lastpwd
+}
+
+function nows {
+  sed 's/\s\+$//' -i $1
+  sed 's/^\s\+$//' -i $1
+}
+
+
+#path for c headers, especially for pcap
+export PATH=$PATH:/usr/include
+
+function buildgem {
+  gem_file=$(gem build *.gemspec | tail -n 1 | awk '{print $2}')
+
+  if [[ ! -z "$gem_file" ]]; then
+    gem inabox $gem_file
+    mv $gem_file ~/Downloads/gems
+  else
+    echo "No gem file was built!"
+ fi
+}
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# RVM paths
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"
+
+# NVM paths
+[[ -s "$HOME/.nvm/nvm.sh" ]] && source "$HOME/.nvm/nvm.sh"
+
+# Permantly losing the private ssh key.
+ssh-add ~/.ssh/id_rsa 2>/dev/null
+export PATH=$PATH:/home/local/LAN/yves.komenda/development/system_tests/dependencies:~/bin
+
+#greetings
+echo "Er möchte lieber 'Stormageddon, dunkler Herrscher über alles' genannt werden"
+export PATH=$PATH:/home/local/LAN/yves.komenda/development/cr_access_driver/dependencies
