@@ -1,2 +1,2 @@
 export IBUS_ENABLE_SYNC_MODE=1
-export RUBYMINE_VM_OPTIONS=~/rubymine64.vmoptions
+export RUBYMINE_VM_OPTIONS=~/setup/rubymine/rubymine64.vmoptions

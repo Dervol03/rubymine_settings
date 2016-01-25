@@ -46,6 +46,15 @@ function nows {
 }
 
 
+function file_dir {
+  dirname "${BASH_SOURCE}"
+}
+
+function h {
+  cd "$($(file_dir)/scripts/home_directories.rb $@)"
+}
+
+
 #path for c headers, especially for pcap
 export PATH=$PATH:/usr/include
 
@@ -54,11 +63,22 @@ function buildgem {
 
   if [[ ! -z "$gem_file" ]]; then
     gem inabox $gem_file
-    mv $gem_file ~/Downloads/gems
+    mkdir -p ~/Downloads/gems
+    mv $gem_file ~/Downloads/gems/
   else
     echo "No gem file was built!"
  fi
 }
+
+
+source ~/.git-prompt.sh
+if [ "$color_prompt" = yes ]; then
+    PS1="\[$BLUE\]\u:\[$YELLOW\]\[$YELLOW\]\w\[\033[m\]\[$MAGENTA\]$(__git_ps1)\[$WHITE\]\$ "
+else
+    PS1="\u:\w\[\033[m\]\$(__git_ps1)\$ "
+fi
+unset color_prompt force_color_prompt
+
 
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
