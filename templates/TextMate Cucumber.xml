@@ -1,0 +1,36 @@
+<templateSet group="TextMate Cucumber">
+  <template name="ssc" value="&#10;&#10;&#10;Scenario: $DESCRIPTION$&#10;  $STEPS$&#10;  $END$" description="Simple Scenario" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="&quot;description&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="STEPS" expression="&quot;steps&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CUCUMBER_FEATURE_FILE" value="true" />
+    </context>
+  </template>
+  <template name="sc" value="&#10;&#10;&#10;Scenario: $DESCRIPTION$&#10;  User Stories:&#10;  &gt; $TESTCASE$&#10;  &#10;  $TEST_DESCRIPTION$&#10;  &#10;  Given $PRECON$&#10;  &#10;  When $STEPS$&#10;  $END$" description="Normal Scenario with Test Cases" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="&quot;description&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="TESTCASE" expression="&quot;test case ID&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEST_DESCRIPTION" expression="&quot;Enter scenario description here&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRECON" expression="&quot;preconditions&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="STEPS" expression="&quot;steps&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CUCUMBER_FEATURE_FILE" value="true" />
+    </context>
+  </template>
+  <template name="sco" value="&#10;&#10;&#10;Scenario Outline: $DESCRIPTION$&#10;  Test Cases:&#10;  &gt; $TESTCASE$&#10;  &#10;  $TEST_DESCRIPTION$&#10;  &#10;  Given $PRECON$&#10;  &#10;  When $STEPS$&#10;  &#10;  Examples:&#10;    |$EXAMPLE$|&#10;    |         |&#10;  $END$" description="Scenario Outline" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="&quot;description&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="TESTCASE" expression="&quot;test case ID&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEST_DESCRIPTION" expression="&quot;Enter brief description here&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRECON" expression="&quot;preconditions&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="STEPS" expression="&quot;steps&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXAMPLE" expression="&quot;variable&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="sce" value="&#10;&#10;&#10;Scenario Outline: $DESCRIPTION$&#10;  Test Cases:&#10;  &gt; $TESTCASE$&#10;  &#10;  $TEST_DESCRIPTION$&#10;  &#10;  Given $PRECON$&#10;  &#10;  When $STEPS$&#10;  $END$" description="Scenario with Test Case" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="&quot;description&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="TESTCASE" expression="&quot;test case ID&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEST_DESCRIPTION" expression="&quot;Describe the user story&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRECON" expression="&quot;preconditions&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="STEPS" expression="&quot;steps&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
