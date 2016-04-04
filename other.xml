@@ -15,16 +15,6 @@
       </profile-state>
     </entry>
   </component>
-  <component name="CodeStyleSettingsManager">
-    <option name="PER_PROJECT_SETTINGS">
-      <value>
-        <XML>
-          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-        </XML>
-      </value>
-    </option>
-    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Community Style Guide" />
-  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
