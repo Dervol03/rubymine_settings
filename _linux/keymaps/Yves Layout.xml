@@ -72,6 +72,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="c" />
   </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="ExpressionTypeInfo">
@@ -168,7 +171,7 @@
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="s" />
   </action>
   <action id="GotoTest">
-    <keyboard-shortcut first-keystroke="alt n" second-keystroke="t" />
+    <keyboard-shortcut first-keystroke="ctrl j" second-keystroke="t" />
   </action>
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
@@ -358,6 +361,9 @@
   </action>
   <action id="WebServicesPlugin.CreateRESTClient">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt r" />
+  </action>
+  <action id="com.andrewbrookins.idea.wrap.WrapAction">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="context.clear" />
   <action id="context.load" />
