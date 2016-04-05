@@ -1,0 +1,69 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>:id =&gt;</find>
+      <find>match</find>
+      <find>def seat_</find>
+      <find>Event.create! valid_attributes</find>
+      <find>add a</find>
+      <find>create_route</find>
+      <find>[:pla</find>
+      <find>visi</find>
+      <find>update_attributes</find>
+      <find>update(</find>
+      <find>current</find>
+      <find>current_even</find>
+      <find>render_tem</find>
+      <find>unfollo</find>
+      <find>:(\w+) =&gt;</find>
+      <find>event_url</find>
+      <find>event_path</find>
+      <find>destroy</find>
+      <find>invalid_event</find>
+      <find>event:</find>
+      <find>unfo</find>
+      <find>create</find>
+      <find>to_param</find>
+      <find>current_event</find>
+      <find>decision_id</find>
+      <find>decide</find>
+      <find>wip:</find>
+      <find>wip</find>
+      <find>add_cu</find>
+      <find>#play</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>false=</replace>
+      <replace>false?</replace>
+      <replace>falsey?</replace>
+      <replace>negative</replace>
+      <replace>|</replace>
+      <replace>^</replace>
+      <replace>filled</replace>
+      <replace>described_class</replace>
+      <replace>described_class($1)</replace>
+      <replace>described_class.new($1)</replace>
+      <replace>temporary</replace>
+      <replace>adventure_class</replace>
+      <replace>the</replace>
+      <replace>destroy</replace>
+      <replace>owner:</replace>
+      <replace>.destroy_as</replace>
+      <replace>id:</replace>
+      <replace>valid_event</replace>
+      <replace>collection_route</replace>
+      <replace>update</replace>
+      <replace>$1:</replace>
+      <replace>outcome:</replace>
+      <replace>id</replace>
+      <replace>past_event</replace>
+      <replace>choice_id</replace>
+      <replace>choose</replace>
+      <replace>set_cu</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/development/told_tales/spec</dir>
+      <dir>$USER_HOME$/development/told_tales/app/views</dir>
+    </dirStrings>
+  </component>
+</application>

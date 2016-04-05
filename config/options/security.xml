@@ -1,0 +1,20 @@
+<application>
+  <component name="PasswordDatabase">
+    <option name="PASSWORDS">
+      <array>
+        <array>
+          <option value="b22976f9e06797336c71206bccd64a2098f916c7d2b47e7210a438a95b82b765" />
+          <option value="404836ec77160f993e5cba856bbd81383103a483587bedcece1e47cdd8d003b3" />
+        </array>
+        <array>
+          <option value="72c42d40f15683853eac6993bb7f0565" />
+          <option value="de1a2c9c0ad28b6db6d4bce14b4136be6eaae36925d7029b7b2ca406dd42ab59" />
+        </array>
+      </array>
+    </option>
+  </component>
+  <component name="SSHConnectionSettings">
+    <successfulAuthentication user="git@eternity.zapto.org:40001" method="publickey" />
+    <successfulAuthentication user="git@github.com" method="publickey" />
+  </component>
+</application>

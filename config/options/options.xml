@@ -1,0 +1,54 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="RubyMine.full.reindex.required" value="1" />
+    <property name="installation.uid" value="89bd1ab6-eaaf-4130-9745-fb95d28731d0" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/linux_setup/rubymine/Yves.xml&#10;/home/yves/development/told_tales&#10;/home/yves/development/told_tales/spec&#10;/home/yves/development/experiments&#10;/home/yves/development/atypes&#10;/home/yves/development/told_tales/log/test.log&#10;/home/yves/linux_setup&#10;/home/yves/linux_setup/rubymine/rubymine_settings.jar&#10;/home/yves/linux_setup/rails/yves_4.2_default_template.rb&#10;/home/yves/development/haushaltsbuch&#10;/home/yves/development/temp_test&#10;/home/yves/development/atypes/spec/decorators&#10;/home/yves/development/atypes/spec/core_ext&#10;/home/yves/development/atypes/spec&#10;/home/yves/development/pretty_json/spec/example_files&#10;/home/yves/development/pretty_json" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="run.configuration.edit.ad" value="true" />
+    <property name="$USER_HOME$/.rvm/rubies/ruby-2.3.0/bin/ruby:BASE_20" value="0.2.2.beta6" />
+    <property name="$USER_HOME$/.rvm/rubies/ruby-2.3.0/bin/ruby:IDE" value="0.6.0" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="selected.color.option.type" value="GHERKIN_PYSTRING" />
+    <property name="PLUGIN_FILTER" value="sett&#10;jenk&#10;ci&#10;trav&#10;team" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="RSpecSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="refac&#10;git&#10;refactor&#10;column&#10;select" />
+    <property name="RSpec.Splitter.Proportion" value="0.21186441" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="ColorChooser.RecentColors" value="65-61-11-255,,,65-59-38-255,,,88-86-64-255,,,63-61-45-255,,,63-16-18-255,,,55-36-35-255,,,43-20-19-255,,,73-34-33-255,,,74-58-58-255,,,74-74-58-255,,,67-67-52-255" />
+    <property name="settings.code.style.selected.tab.ruby" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.XML" value="Other" />
+    <property name="export.settings.path" value="$USER_HOME$/linux_setup/rubymine/rubymine_settings.jar" />
+    <property name="PluginCopyPasteStack.SplitPaneDividerLocation" value="147" />
+    <property name="PluginCopyPasteStack.Items" value="context 'object has an #empty? check' do&#10;      context 'object has no content' do&#10;        it 'returns false' do&#10;          expect(''.filled?).to be false&#10;          expect([].filled?).to be falseXx&lt;&lt;-!!!-&gt;&gt;xXother_value = other.respond_to?(:truthy?) ? other.truthy? : otherXx&lt;&lt;-!!!-&gt;&gt;xXother_value = other.respond_to?(:truthy?) ? other.truthy? : otherXx&lt;&lt;-!!!-&gt;&gt;xX" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7008547" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="true" />
+    <property name="rails.run.generators.popup.search.mask" value="migr" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="rake.run.task.popup.search.mask" value="migra" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="LOG_FILTER_HISTORY" value="special" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="RSpecSupport.hideIgnoredTests" value="true" />
+    <property name="run.configuration.delete.ad" value="true" />
+    <property name="Vcs.Log.Text.Filter.History" value="rubocop&#10;restr&#10;adven&#10;derv&#10;res" />
+    <property name="RSpecSupport.trackRunningTest" value="false" />
+    <property name="RSpecSupport.selectFirtsDefect" value="false" />
+    <property name="evlsprt3.8" value="14" />
+    <property name="RubyMine.dumbRunEnabled" value="true" />
+  </component>
+</application>
