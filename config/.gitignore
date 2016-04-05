@@ -11,3 +11,9 @@ options/gemmanager.xml
 options/project.default.xml
 options/recentProjectDirectories.xml
 options/statistics.application.usages.xml
+options/find.xml
+options/options.xml
+options/runner.layout.xml
+options/window.state.xml
+consoles
+jdbc-drivers

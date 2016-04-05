@@ -1,6 +1,10 @@
-<keymap version="1" name="Yves Layout" parent="Default for GNOME">
+<keymap version="1" name="Personal Layout" parent="Default for GNOME">
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="v" />
   </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt a" />
@@ -342,6 +346,7 @@
   </action>
   <action id="ToggleTemporaryLineBreakpoint" />
   <action id="TypeHierarchy" />
+  <action id="UML.ShowChanges" />
   <action id="Uml.ShowDiff" />
   <action id="Unwrap" />
   <action id="Vcs.ChangesView">
@@ -349,6 +354,9 @@
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt p" />
+  </action>
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt d" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="h" />
