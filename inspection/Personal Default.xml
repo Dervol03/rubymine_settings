@@ -1,5 +1,5 @@
-<inspections profile_name="Yves" version="1.0">
-  <option name="myName" value="Yves" />
+<inspections profile_name="Personal Default" version="1.0">
+  <option name="myName" value="Personal Default" />
   <option name="myLocal" value="true" />
   <inspection_tool class="RubyDeadCode" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="RubyEmptyRescueBlockInspection" enabled="true" level="ERROR" enabled_by_default="true" />

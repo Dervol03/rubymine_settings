@@ -1,8 +1,0 @@
----
-:backtrace: false
-:bulk_threshold: 1000
-:sources:
-- https://rubygems.org/
-- http://geminabox.lan.adytonsystems.com/
-:update_sources: true
-:verbose: true

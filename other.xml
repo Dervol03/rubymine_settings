@@ -14,16 +14,34 @@
         </selected-state>
       </profile-state>
     </entry>
-  </component>
-  <component name="CodeStyleSettingsManager">
-    <option name="PER_PROJECT_SETTINGS">
-      <value>
-        <XML>
-          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-        </XML>
-      </value>
-    </option>
-    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Community Style Guide" />
+    <entry key="Personal Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="Yves">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
@@ -91,27 +109,26 @@
       <option name="useProxy" value="false" />
       <username />
     </Gitlab>
-    <Redmine shared="false" url="https://redmine.lan.adytonsystems.com">
-      <option name="APIKey" value="cffe495091c8e1fb3fdb56be7ae61ead0cb18885" />
-      <option name="assignedToMe" value="false" />
-      <commitMessageFormat>&gt; 
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{summary}
 
-* 
+*
 
-refs #{id} @
-title: {summary}</commitMessageFormat>
-      <option name="currentProject">
-        <RedmineProject id="1" identifier="alf" />
-      </option>
+refs #{number}</commitMessageFormat>
       <password />
+      <token>df9cdf92df98dfcbdf9adf92df9edfccdf9ddf9adf9cdf9bdf9bdf99df92dfcedf9bdfccdf9cdf92df99dfcfdf9bdf9bdfcedfcedf9fdf93df9cdfc8df98df99df99df93df9adf9cdfcedfccdfccdf9f</token>
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="Dervol03" />
+      <option name="repoName" value="told_tales" />
       <option name="shouldFormatCommitMessage" value="true" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
+      <option name="user" value="" />
       <username />
-    </Redmine>
+    </GitHub>
     <Gitlab shared="false" url="http://gitlab.zapto.org">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <option name="currentProject">
@@ -126,6 +143,20 @@ title: {summary}</commitMessageFormat>
       <option name="useProxy" value="false" />
       <username />
     </Gitlab>
+    <YouTrack shared="false" url="http://localhost/youtrack">
+      <commitMessageFormat>* 
+
+#{id}</commitMessageFormat>
+      <option name="defaultSearch" value="Type:  Task  project:{ Advanced Types} " />
+      <password>dffcdfc5dfc6dfc6dfd9dfdedfd8dfcfdfc9dfc1dfdfdfc4dfcddf9b</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>Dervol03</username>
+    </YouTrack>
   </component>
   <component name="RubyCucumber" number="7" string0="aruba" string1="calabash-android" string2="calabash-cucumber" string3="cucumber-api-steps" string4="factory_girl" string5="json_spec" string6="rails3-jquery-autocomplete" />
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
