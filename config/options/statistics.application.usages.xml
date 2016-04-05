@@ -1,0 +1,170 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type-temp">
+      <project id="atypes" values="RSpecRunConfigurationType,IrbRunConfigurationType" collectionTime="1458369813743" />
+      <project id="pretty_json" values="RubyRunConfigurationType" collectionTime="1454527116879" />
+      <project id="told_tales" values="RakeRunConfigurationType,RSpecRunConfigurationType,RubyRunConfigurationType" collectionTime="1459881168985" />
+    </group>
+    <group name="Git">
+      <project id="atypes" values="data.remote.branches.count.2+,config.warn.about.detached.enabled,data.local.branches.count.1,config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.save.policy.STASH,data.remotes.in.project.2+,config.cherry-pick.autocommit.disabled" collectionTime="1458369813759" />
+      <project id="pretty_json" values="config.push.update.all.roots.enabled,data.local.branches.count.1,config.ssh.enabled,config.save.policy.STASH,data.remote.branches.count.2+,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,data.remotes.in.project.2+" collectionTime="1454527116889" />
+      <project id="haushaltsbuch" values="config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,data.remote.branches.count.2+,data.local.branches.count.1,config.push.autoupdate.disabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.ssh.enabled" collectionTime="1457264421025" />
+      <project id="told_tales" values="config.repo.sync.NOT_DECIDED,data.local.branches.count.2+,config.ssh.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,data.remotes.in.project.2+,data.remote.branches.count.2+,config.warn.about.detached.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled" collectionTime="1459881168995" />
+      <project id="experiments" values="config.push.update.all.roots.enabled,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,config.save.policy.STASH,config.warn.about.detached.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT" collectionTime="1458816033899" />
+      <project id="temp_test" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.update.all.roots.enabled" collectionTime="1457263360005" />
+      <project id="linux_setup" values="config.warn.about.detached.enabled,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.ssh.enabled" collectionTime="1457848787281" />
+    </group>
+    <group name="vcs">
+      <project id="atypes" values="Git" collectionTime="1458369813743" />
+      <project id="pretty_json" values="Git" collectionTime="1454527116878" />
+      <project id="haushaltsbuch" values="Git" collectionTime="1457264421023" />
+      <project id="told_tales" values="Git" collectionTime="1459881168984" />
+      <project id="experiments" values="Git" collectionTime="1458816033891" />
+      <project id="linux_setup" values="Git" collectionTime="1457848787265" />
+    </group>
+    <group name="ruby-sdk-version">
+      <project id="atypes" values="ruby-2.3.0" collectionTime="1458369813757" />
+      <project id="pretty_json" values="ruby-2.3.0" collectionTime="1454527116888" />
+      <project id="haushaltsbuch" values="ruby-2.2.1" collectionTime="1457264421025" />
+      <project id="told_tales" values="ruby-2.3.0" collectionTime="1459881168993" />
+      <project id="experiments" values="ruby-2.2.1" collectionTime="1458816033897" />
+      <project id="temp_test" values="ruby-2.3.0" collectionTime="1457263360005" />
+      <project id="linux_setup" values="ruby-2.3.0" collectionTime="1457848787279" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="atypes" values="ECMAScript 5.1" collectionTime="1458369813879" />
+      <project id="pretty_json" values="ECMAScript 5.1" collectionTime="1454527116968" />
+      <project id="haushaltsbuch" values="ECMAScript 5.1" collectionTime="1457264421025" />
+      <project id="told_tales" values="ECMAScript 5.1" collectionTime="1459881169081" />
+      <project id="experiments" values="ECMAScript 5.1" collectionTime="1458816033974" />
+      <project id="temp_test" values="ECMAScript 5.1" collectionTime="1457263360005" />
+      <project id="linux_setup" values="ECMAScript 5.1" collectionTime="1457848787401" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="temp_test" values="RakeRunConfigurationType,RailsRunConfigurationType" collectionTime="1457263359998" />
+      <project id="pretty_json" values="RSpecRunConfigurationType" collectionTime="1454527116879" />
+      <project id="haushaltsbuch" values="RakeRunConfigurationType,RailsRunConfigurationType" collectionTime="1457264421023" />
+      <project id="told_tales" values="RakeRunConfigurationType,CommandRunConfigurationType,RSpecRunConfigurationType,RailsRunConfigurationType" collectionTime="1459881168985" />
+      <project id="atypes" values="CommandRunConfigurationType,RSpecRunConfigurationType" collectionTime="1458369813743" />
+    </group>
+    <group name="ruby-project-type">
+      <project id="atypes" values="gem" collectionTime="1458369813757" />
+      <project id="pretty_json" values="gem" collectionTime="1454527116888" />
+      <project id="haushaltsbuch" values="rails unknown" collectionTime="1457264421025" />
+      <project id="told_tales" values="rails 4.2" collectionTime="1459881168993" />
+      <project id="experiments" values="plain ruby" collectionTime="1458816033898" />
+      <project id="temp_test" values="rails 4.2" collectionTime="1457263360005" />
+      <project id="linux_setup" values="plain ruby" collectionTime="1457848787279" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="told_tales" values="org.sqlite.JDBC,org.sqlite.JDBC" collectionTime="1459881169081" />
+    </group>
+    <group name="ruby-gems-names">
+      <project id="temp_test" values="rails,mini_portile2,activesupport,actionpack,nokogiri,rack-test,rspec,globalid,coffee-script,bundler,slop,rspec-mocks,rspec-support,sqlite3,concurrent-ruby,pry-rails,thor,sass,activejob,rack,mime-types,actionmailer,erubis,haml-rails,minitest,arel,byebug,mail,binding_of_caller,formtastic-bootstrap,debug_inspector,coderay,thread_safe,execjs,html2haml,jbuilder,autoprefixer-rails,formtastic,loofah,sprockets-rails,rake,railties,warden,rails-html-sanitizer,uglifier,activemodel,diff-lcs,rspec-expectations,builder,sexp_processor,ruby_parser,web-console,sprockets,devise,turbolinks,tilt,sass-rails,responders,pry,rspec-core,tzinfo,orm_adapter,rails-dom-testing,jquery-rails,coffee-rails,rails-deprecated_sanitizer,sdoc,method_source,coffee-script-source,bcrypt,rspec-rails,multi_json,actionview,rdoc,puma,haml,activerecord,bootstrap-sass,i18n" collectionTime="1457263360005" />
+      <project id="atypes" values="rake,rspec-core,method_source,rspec-mocks,slop,bundler,powerpack,ruby-progressbar,rspec,coderay,diff-lcs,rspec-support,rubocop,rainbow,parser,ast,rspec-expectations,pry" collectionTime="1458369813757" />
+      <project id="pretty_json" values="pry,rspec-mocks,diff-lcs,rspec-support,rspec-core,coderay,rake,rspec,method_source,slop,bundler,rspec-expectations" collectionTime="1454527116888" />
+      <project id="haushaltsbuch" values="bundler" collectionTime="1457264421025" />
+      <project id="told_tales" values="byebug,pry-rails,activejob,rspec-support,coffee-script-source,railties,warden,rspec-collection_matchers,bcrypt,erubis,a_types,sdoc,sprockets-rails,tilt,i18n,spring,shoulda-matchers,rails-html-sanitizer,sexp_processor,puma,coffee-rails,pry,slop,rdoc,responders,sass,powerpack,actionpack,bootstrap-sass,activemodel,ruby-progressbar,arel,formtastic-bootstrap,autoprefixer-rails,debug_inspector,rspec-expectations,devise,actionmailer,sprockets,thor,rspec,fabrication,rack-test,ast,mini_portile2,rails,globalid,rspec-rails,rubocop,formtastic,bundler,sqlite3,minitest,execjs,binding_of_caller,rainbow,rails-deprecated_sanitizer,coderay,rake,loofah,simplecov,nokogiri,web-console,unicode-display_width,actionview,thread_safe,builder,docile,mime-types,mail,parser,ruby_parser,rspec-core,jbuilder,concurrent-ruby,rspec-mocks,activerecord,coffee-script,haml,uglifier,turbolinks,method_source,haml-rails,sass-rails,rack,rails-dom-testing,yard,html2haml,jquery-rails,activesupport,orm_adapter,multi_json,diff-lcs,simplecov-html,tzinfo" collectionTime="1459881168993" />
+      <project id="linux_setup" values="execjs,i18n,minitest,loofah,railties,tilt,formtastic-bootstrap,html2haml,rails-deprecated_sanitizer,sass,haml-rails,rails-html-sanitizer,ruby_parser,bcrypt,tzinfo,devise,actionview,rack-test,warden,nokogiri,builder,erubis,orm_adapter,rack,actionpack,thread_safe,rake,activesupport,autoprefixer-rails,formtastic,haml,bootstrap-sass,sexp_processor,rails-dom-testing,responders,mini_portile2,thor,puma" collectionTime="1457848787279" />
+    </group>
+    <group name="frameworks">
+      <project id="temp_test" values="RailsFacetType" collectionTime="1457263359998" />
+      <project id="pretty_json" values="gem" collectionTime="1454527116878" />
+      <project id="haushaltsbuch" values="RailsFacetType" collectionTime="1457264421023" />
+      <project id="told_tales" values="RailsFacetType" collectionTime="1459881168984" />
+      <project id="atypes" values="gem" collectionTime="1458369813743" />
+    </group>
+    <group name="file-type">
+      <project id="atypes" values="Git file,XML,PLAIN_TEXT,Markdown,YAML,UNKNOWN,CSS,Ruby,HTML,JavaScript" collectionTime="1458369813750" />
+      <project id="pretty_json" values="Git file,JSON,XML,Markdown,YAML,Ruby,PLAIN_TEXT,UNKNOWN" collectionTime="1454527116884" />
+      <project id="haushaltsbuch" values="JavaScript,CoffeeScript,RDOC,SCSS,YAML,Ruby,Images,UNKNOWN,SQLite Database,HAML,HTML,CSS,RHTML,Git file,PLAIN_TEXT,XML" collectionTime="1457264421024" />
+      <project id="told_tales" values="PLAIN_TEXT,CoffeeScript,SCSS,CSS,Ruby,HTML,Markdown,Images,JavaScript,SQLite Database,YAML,HAML,Git file" collectionTime="1459881168988" />
+      <project id="experiments" values="XML,UNKNOWN,Git file,PLAIN_TEXT,Ruby" collectionTime="1458816033895" />
+      <project id="temp_test" values="RDOC,SQLite Database,PLAIN_TEXT,Ruby,HTML,HAML,UNKNOWN,CoffeeScript,SCSS,XML,Git file,JavaScript,Images,YAML" collectionTime="1457263360005" />
+      <project id="linux_setup" values="UNKNOWN,YAML,XML,PLAIN_TEXT,Bash,Markdown,ARCHIVE,Ruby,Git file" collectionTime="1457848787274" />
+    </group>
+    <group name="module type">
+      <project id="atypes" values="RUBY_MODULE" collectionTime="1458369813743" />
+      <project id="pretty_json" values="RUBY_MODULE" collectionTime="1454527116878" />
+      <project id="haushaltsbuch" values="RUBY_MODULE" collectionTime="1457264421023" />
+      <project id="told_tales" values="RUBY_MODULE" collectionTime="1459881168984" />
+      <project id="experiments" values="RUBY_MODULE" collectionTime="1458816033891" />
+      <project id="temp_test" values="RUBY_MODULE" collectionTime="1457263359998" />
+      <project id="linux_setup" values="RUBY_MODULE" collectionTime="1457848787265" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="atypes" values="Project,Project" collectionTime="1458369813879" />
+      <project id="pretty_json" values="Project,Project" collectionTime="1454527116968" />
+      <project id="haushaltsbuch" values="Project,Project" collectionTime="1457264421025" />
+      <project id="told_tales" values="Project,Project" collectionTime="1459881169081" />
+      <project id="experiments" values="Project,Project" collectionTime="1458816033974" />
+      <project id="temp_test" values="Project,Project" collectionTime="1457263360005" />
+      <project id="linux_setup" values="Project,Project" collectionTime="1457848787401" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="27" />
+      <entry feature="StripeButton[Copy/Paste].hidden" count="1" />
+      <entry feature="StripeButton[GfmBrowser].hidden" count="2" />
+      <entry feature="StripeButton[Run].hidden" count="1" />
+      <entry feature="StripeButton[Terminal].hidden" count="2" />
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="diff.DiffSettings.Tool.Default viewer" count="1" />
+      <entry feature="diff.DiffSettings.Tool.Unified viewer" count="1" />
+      <entry feature="diff.TextDiffSettings.HighlightPolicy.BY_LINE" count="2" />
+      <entry feature="diff.TextDiffSettings.HighlightPolicy.BY_WORD" count="3" />
+      <entry feature="diff.TextDiffSettings.HighlightPolicy.BY_WORD_SPLIT" count="1" />
+      <entry feature="diff.TextDiffSettings.IgnorePolicy.IGNORE_WHITESPACES" count="1" />
+      <entry feature="diff.TextDiffSettings.IgnorePolicy.IGNORE_WHITESPACES_CHUNKS" count="1" />
+      <entry feature="execute.CommandRunConfigurationType.Run" count="132" />
+      <entry feature="execute.IrbRunConfigurationType.Run" count="1" />
+      <entry feature="execute.RSpecRunConfigurationType.Debug" count="96" />
+      <entry feature="execute.RSpecRunConfigurationType.Run" count="798" />
+      <entry feature="execute.RailsRunConfigurationType.Debug" count="33" />
+      <entry feature="execute.RailsRunConfigurationType.Run" count="84" />
+      <entry feature="execute.RakeRunConfigurationType.Debug" count="14" />
+      <entry feature="execute.RakeRunConfigurationType.Run" count="237" />
+      <entry feature="execute.RubyRunConfigurationType.Run" count="5" />
+      <entry feature="git.branch.checkout.local" count="4" />
+      <entry feature="git.branch.create.new" count="2" />
+      <entry feature="ide.help.reference.runToolWindow.testResultsTab" count="1" />
+      <entry feature="ide.help.top" count="2" />
+      <entry feature="ide.settings.Appearance" count="20" />
+      <entry feature="ide.settings.CSS" count="1" />
+      <entry feature="ide.settings.CodeGlance" count="2" />
+      <entry feature="ide.settings.Code_Completion" count="3" />
+      <entry feature="ide.settings.Code_Folding" count="3" />
+      <entry feature="ide.settings.Code_Style" count="3" />
+      <entry feature="ide.settings.Debugger" count="1" />
+      <entry feature="ide.settings.Editor_Tabs" count="4" />
+      <entry feature="ide.settings.File_Colors" count="17" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="5" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.HAML" count="1" />
+      <entry feature="ide.settings.HTML" count="1" />
+      <entry feature="ide.settings.Images" count="2" />
+      <entry feature="ide.settings.Inspections" count="4" />
+      <entry feature="ide.settings.Keymap" count="10" />
+      <entry feature="ide.settings.Live_Templates" count="20" />
+      <entry feature="ide.settings.Plugins" count="6" />
+      <entry feature="ide.settings.Project_Structure" count="3" />
+      <entry feature="ide.settings.Ruby" count="2" />
+      <entry feature="ide.settings.Ruby_SDK_and_Gems" count="7" />
+      <entry feature="ide.settings.Scopes" count="6" />
+      <entry feature="ide.settings.Servers" count="8" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.Time_Tracking" count="2" />
+      <entry feature="ide.settings.Version_Control" count="2" />
+      <entry feature="ide.settings.Wrap_to_Column" count="2" />
+      <entry feature="ide.settings.XML" count="1" />
+      <entry feature="ideaapp.started" count="53" />
+      <entry feature="terminal.linux" count="17" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="2" />
+      <entry feature="welcome.screen.ConfigureIcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,96 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/development/told_tales" />
+        <option value="$USER_HOME$/development/experiments" />
+        <option value="$USER_HOME$/development/atypes" />
+        <option value="$USER_HOME$/linux_setup" />
+        <option value="$USER_HOME$/development/haushaltsbuch" />
+        <option value="$USER_HOME$/development/temp_test" />
+        <option value="$USER_HOME$/development/pretty_json" />
+      </list>
+    </option>
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/development/atypes">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="RM-143.1559" />
+              <option name="productionCode" value="RM" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458369786046" />
+              <option name="buildTimestamp" value="1450738800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/experiments">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="RM-143.1559" />
+              <option name="productionCode" value="RM" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458807486087" />
+              <option name="buildTimestamp" value="1450738800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/haushaltsbuch">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="RM-143.1559" />
+              <option name="productionCode" value="RM" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457263712165" />
+              <option name="buildTimestamp" value="1450738800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/pretty_json">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="RM-143.1559" />
+              <option name="productionCode" value="RM" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1454526833639" />
+              <option name="buildTimestamp" value="1450738800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/temp_test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="RM-143.1559" />
+              <option name="productionCode" value="RM" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457263230612" />
+              <option name="buildTimestamp" value="1450738800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/told_tales">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="RM-145.597" />
+              <option name="productionCode" value="RM" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1459881101691" />
+              <option name="buildTimestamp" value="1459288800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/linux_setup">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="RM-143.1559" />
+              <option name="productionCode" value="RM" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457848780470" />
+              <option name="buildTimestamp" value="1450738800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

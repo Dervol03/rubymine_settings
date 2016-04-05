@@ -11,7 +11,7 @@
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
+  <component name="DaemonCodeAnalyzerSettings" profile="Personal Default">
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="4" />
   </component>
 </application>
