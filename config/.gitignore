@@ -4,3 +4,10 @@ rubystubs
 settingsRepository
 plugins
 tasks
+options/dimensions.xml
+options/extensionsRootType.xml
+options/feature.usage.statistics.xml
+options/gemmanager.xml
+options/project.default.xml
+options/recentProjectDirectories.xml
+options/statistics.application.usages.xml
