@@ -112,6 +112,14 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Ruby" />
+          <option name="key" value="eab" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="eac" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
           <option name="key" value="each_index" />
         </TemplateKey>
         <TemplateKey>
@@ -176,7 +184,15 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Ruby" />
+          <option name="key" value="max" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
           <option name="key" value="mex" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="min" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Ruby" />
@@ -209,6 +225,10 @@
         <TemplateKey>
           <option name="groupName" value="Ruby" />
           <option name="key" value="yload" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby RSpec" />
+          <option name="key" value="matj" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Ruby RSpec" />
