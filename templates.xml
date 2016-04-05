@@ -212,10 +212,6 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Ruby RSpec" />
-          <option name="key" value="it" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Ruby RSpec" />
           <option name="key" value="shrec" />
         </TemplateKey>
         <TemplateKey>
